@@ -1,0 +1,20 @@
+{
+  "components/hero.tsx -> @/components/hero-scene": {
+    "id": 3166,
+    "files": [
+      "static/chunks/b536a0f1.f06e169bf8dc9367.js",
+      "static/chunks/bd904a5c.56e65ed4abb36c15.js",
+      "static/chunks/e49654ac.d18991dfbe3404b7.js",
+      "static/chunks/813.e9bcaa07916573ed.js",
+      "static/chunks/166.1678b25642c42f51.js"
+    ]
+  },
+  "node_modules/@react-three/drei/core/VideoTexture.js -> hls.js": {
+    "id": null,
+    "files": []
+  },
+  "node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": null,
+    "files": []
+  }
+}

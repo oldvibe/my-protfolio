@@ -1,0 +1,3 @@
+/* Small compositional safeguards kept separate from the main visual system. */
+.hero-ctas{opacity:1!important;transform:none!important}
+@media (max-width:560px){.hero-ctas .text-action{white-space:nowrap}}

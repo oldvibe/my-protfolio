@@ -1,0 +1,7 @@
+export function AboutSection() {
+  return <section className="about-section" id="about" aria-labelledby="about-title">
+    <div className="section-number"><span>01</span><i /> ENGINEERING PHILOSOPHY</div>
+    <div className="about-layout"><div><h2 id="about-title" data-reveal>I don&apos;t just write code.<br /><span>I understand the system behind it.</span></h2></div><div className="about-copy" data-reveal><p>I enjoy working across software layers: untangling a data model, shaping an API, refining an interface, and understanding the infrastructure that connects it all.</p><p>I&apos;m learning concurrently through <strong>1337 Rabat (UM6P)</strong> and <strong>Zone 01 Oujda</strong>, building by doing and collaborating around real engineering challenges.</p><a href="#journey" className="text-action">FOLLOW THE JOURNEY <span>↘</span></a></div></div>
+    <div className="about-diagram" data-reveal aria-label="A diagram connecting interface, logic, data, and infrastructure"><div className="diagram-core">SYSTEM<br />THINKING</div><span className="diagram-node node-interface">INTERFACE</span><span className="diagram-node node-logic">LOGIC</span><span className="diagram-node node-data">DATA</span><span className="diagram-node node-infra">INFRA</span><i className="diagram-line line-a" /><i className="diagram-line line-b" /><i className="diagram-line line-c" /><i className="diagram-line line-d" /><p>THE BEST EXPERIENCES ARE HELD UP BY THE PARTS PEOPLE DON&apos;T SEE.</p></div>
+  </section>;
+}
