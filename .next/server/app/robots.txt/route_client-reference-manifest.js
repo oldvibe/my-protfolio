@@ -1,1 +1,0 @@
-globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/robots.txt/route"]={"moduleLoading":{"prefix":"/_next/"},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"/home/yanait-e/Downloads/yasyn-portfolio-updated/yasyn-portfolio/app/robots.txt/route":[]},"rscModuleMapping":{},"edgeRscModuleMapping":{}};
